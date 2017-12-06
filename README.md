@@ -30,7 +30,7 @@ http://localhost:3000/posts/1.json
 2. render를 json 형식으로
 3. rails new test_app —api
 
-= middelwared없이 생성
+= middelware 없이 생성
 
 안드로이드에는 cookie없이 jwt json web token 로컬에 미리 저장
 
